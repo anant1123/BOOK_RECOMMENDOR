@@ -2,4 +2,4 @@ pandas
 streamlit
 numpy
 pywhatkit
-gunicorn
+streamlit_option_menu
