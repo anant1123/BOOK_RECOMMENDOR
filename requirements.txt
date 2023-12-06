@@ -3,3 +3,4 @@ streamlit
 numpy
 pywhatkit
 streamlit_option_menu
+sklearn
